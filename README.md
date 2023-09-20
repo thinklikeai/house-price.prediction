@@ -1,7 +1,5 @@
 # Comprehensive Housing Market Analysis Using Python Data Libraries
 
-![Project Image](path/to/your/image.jpg)
-
 <h1>Overview</h1>
 
 <p style="font-size:16px;">This project aims to provide an in-depth analysis of the housing market by leveraging Python's powerful data analytics and visualization libraries. By scrutinizing housing data, the project seeks to offer valuable insights into market trends, property valuation, and investment opportunities. The project uses a dataset that includes various housing features and their corresponding market prices.</p>
